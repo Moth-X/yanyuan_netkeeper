@@ -9,7 +9,7 @@
 >   你可以在以下链接下载本文涉及的所有文件：
 >
 >   - 蓝奏云：[https://wwda.lanzouy.com/b03252s7i](https://wwda.lanzouy.com/b03252s7i)  密码:4vmp
->   - Gitee：[https://gitee.com/cherrycube/yanyuan_netkeeper](https://gitee.com/cherrycube/yanyuan_netkeeper)
+>   - Gitee：[https://gitee.com/cherrycube/yanyuan_netkeeper/releases](https://gitee.com/cherrycube/yanyuan_netkeeper/releases)
 ------
 ## 教程
 >   1. [PDF版本（推荐）](安装教程.pdf)  
