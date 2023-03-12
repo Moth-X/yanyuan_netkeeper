@@ -12,5 +12,5 @@
 >   - Gitee：[https://gitee.com/cherrycube/yanyuan_netkeeper](https://gitee.com/cherrycube/yanyuan_netkeeper)
 ------
 ## 教程
->   1. [PDF版本（推荐）](./教程.pdf)  
->   2. [MARKDOWN版本](./教程.md)
+>   1. [PDF版本（推荐）](安装教程.pdf)  
+>   2. [MARKDOWN版本](安装教程.md)
